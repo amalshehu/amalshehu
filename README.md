@@ -16,7 +16,7 @@
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-F0F8FF?style=flat-square&logo=tailwindcss)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
-![Babel](https://img.shields.io/badge/-Babel-yellow?style=flat-square&logo=babel)
+![Bun](https://img.shields.io/badge/-Bun-yellow?style=flat-square&logo=bun)
 ![Rollup](https://img.shields.io/badge/-Rollup-orange?style=flat-square&logo=rollup.js)
 ![pnpm](https://img.shields.io/badge/-pnpm-F0F8FF?style=flat-square&logo=pnpm)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
