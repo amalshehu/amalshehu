@@ -1,14 +1,8 @@
-# Programming in the Next 50 Years: The Impact of Technology on the World
+# Hey! 👋 I'm Amal Shehu
 
-As an experienced programmer, I have seen the evolution of technology and the way it has impacted the world. In the next 50 years, we can expect to see even more advancements in artificial intelligence and machine learning, as well as the continued integration of technology in our daily lives.
+A futurist who believes in the transformative power of technology. As a complete-stack engineer, my mission is to utilize the limitless potential of technology to bring innovative solutions to life.
 
-One of the most significant changes we will see is the increased automation of jobs. As machines become more intelligent, they will be able to perform tasks that were once only done by humans. This will lead to a shift in the job market, with more jobs in the technology field and fewer jobs in traditional industries.
-
-We will also see a greater emphasis on data privacy and security as our personal information becomes more vulnerable to cyberattacks. Governments and companies will need to invest in better security measures to protect our data.
-
-The Internet of Things (IoT) will also continue to grow, connecting more devices and allowing for greater control and automation in our homes and cities. This will lead to increased efficiency and convenience, but also raise new concerns about privacy and security.
-
-Overall, the next 50 years will bring a lot of change and progress in technology, and as a programmer, it will be an exciting time to be a part of the industry. However, it's also important to consider the ethical implications of these advancements and ensure that they are used for the betterment of society.
+From crafting smart solutions to integrating complete systems from front-to-back end to implementing efficient devOps practices.
 
 # ⚡ I Like
 ![Python](https://img.shields.io/badge/-Python-F0F8FF?style=flat-square&logo=Python)
@@ -41,3 +35,17 @@ Overall, the next 50 years will bring a lot of change and progress in technology
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Brave browser](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white)
 <br/>
+
+
+## 🚀 Mission Logs - Noteworthy Projects
+
+- **[AI Designer](https://www.figma.com/community/plugin/1227900767438159391/AI-Designer)**
+  - AI Designer is a powerful plugin for Figma, designed to streamline and enhance the user experience design process. With the power of GPT, this plugin offers a suite of intelligent features to assist designers in creating effective and visually appealing UX templates with content.
+
+For more manifestations of my code-craft, please see my [portfolio](https://amalshehu.dev).
+
+## 📡 Contact Protocol
+
+Establish contact via communication channels: [LinkedIn](https://linkedin.com/in/amalshehu), [Twitter](https://twitter.com/amal_shehu), or drop me an email transmission at (amalshehu@gmail.com). 
+
+And remember: _"The people who are crazy enough to think they can change the world are the ones who do."_ - Steve Jobs. So, shall we change the universe?
