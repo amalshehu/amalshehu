@@ -4,7 +4,7 @@ A futurist who believes in the transformative power of technology. As a complete
 
 From crafting smart solutions to integrating complete systems from front-to-back end to implementing efficient devOps practices.
 
-# ⚡ I Like
+## ⚡ I Like
 ![Python](https://img.shields.io/badge/-Python-F0F8FF?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0F8FF?style=flat-square&logo=javascript)
