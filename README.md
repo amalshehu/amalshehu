@@ -38,9 +38,9 @@ From crafting smart solutions to integrating complete systems from front-to-back
 
 
 ## 🚀 Mission Logs - Noteworthy Projects
+[AI Designer](https://www.figma.com/community/plugin/1227900767438159391/AI-Designer) is a powerful plugin for Figma, designed to streamline and enhance the user experience design process. With the power of GPT, this plugin offers a suite of intelligent features to assist designers in creating effective and visually appealing UX content.<br />
 
-- **[AI Designer](https://www.figma.com/community/plugin/1227900767438159391/AI-Designer)**
-  - AI Designer is a powerful plugin for Figma, designed to streamline and enhance the user experience design process. With the power of GPT, this plugin offers a suite of intelligent features to assist designers in creating effective and visually appealing UX templates with content.
+[![AI Designer](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=400583&theme=dark)](https://www.producthunt.com/posts/ai-designer-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;designer&#0045;2)
 
 For more manifestations of my code-craft, please see my [portfolio](https://amalshehu.dev).
 
